@@ -1,1 +1,4 @@
 About the Course
+Week 1:We get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios..
+Week 2:This week we’re going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code.
+What happens when your images are larger, or if the features aren’t always in the same place? we'll learn how to apply convolutional neural networks to these much bigger and more complex images.
